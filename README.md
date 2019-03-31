@@ -1,7 +1,7 @@
 # Number-Guesser
-<h3>Players have 3 guesses to pick the correct number between 1-10. 
+<h3><em>Players have 3 guesses to pick the correct number between 1-10. 
 After the third guess, players with have to start over to play again. 
-Guess the correct answer and "YOU WIN!</h3>
+Guess the correct answer and "YOU WIN!<em></h3>
 
 
 
